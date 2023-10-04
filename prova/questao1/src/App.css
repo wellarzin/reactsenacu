@@ -1,0 +1,13 @@
+.img-pequena{
+    width: 100px;
+    cursor: pointer;
+}
+
+li{
+    text-decoration: none;
+    list-style: none;
+}
+
+ul{
+    display: flex;
+}
